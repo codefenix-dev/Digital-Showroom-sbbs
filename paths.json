@@ -1,0 +1,17 @@
+[
+   {
+      "name": "fsxNet - New images every day! (FSX_IMGE)",
+      "path": "c:\\files\\fsxnet_files\\fsx_imge",
+      "resize": true
+   },
+   {
+      "name": "fsxNet - Art & ANSI Packs (FSX_ARTS)",
+      "path": "c:\\files\\fsxnet_files\\fsx_arts",
+      "resize": true
+   },
+   {
+      "name": "Animations!",
+      "path": "c:\\files\\images\\animations",
+      "resize": false
+   }
+]
